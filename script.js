@@ -56,35 +56,35 @@
 // console.log("Откат посреднику", Math.floor(servicePercentPrice));
 
 								//hard
-let lang = 'ru';
+// let lang = 'ru';
 
-if (lang = 'ru') {
-	console.log('Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота', 'Воскресенье');
-} else if (lang = 'en') {
-	console.log('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday');
-} else {
-	console.log('неопределённое значение');
-};
+// if (lang = 'ru') {
+// 	console.log('Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота', 'Воскресенье');
+// } else if (lang = 'en') {
+// 	console.log('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday');
+// } else {
+// 	console.log('неопределённое значение');
+// };
 
-switch (true) {
-	case lang = 'ru':
-		console.log('Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота', 'Воскресенье');
-		break;
-	case lang = 'en':
-		console.log('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday');
-		break;
-	default:
-		console.log('неопределённое значение');
-};
+// switch (true) {
+// 	case lang = 'ru':
+// 		console.log('Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота', 'Воскресенье');
+// 		break;
+// 	case lang = 'en':
+// 		console.log('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday');
+// 		break;
+// 	default:
+// 		console.log('неопределённое значение');
+// };
 
-const langArray = {
-	ru: ['Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота', 'Воскресенье'],
-	en: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
-};
-console.log(langArray[lang]);
+// const langArray = {
+// 	ru: ['Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота', 'Воскресенье'],
+// 	en: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+// };
+// console.log(langArray[lang]);
 
-let namePerson = '';
-console.log((namePerson === 'Артём') ? 'директор' : (namePerson === 'Максим') ? 'преподаватель' : 'студент');
+// let namePerson = '';
+// console.log((namePerson === 'Артём') ? 'директор' : (namePerson === 'Максим') ? 'преподаватель' : 'студент');
 
 
 
